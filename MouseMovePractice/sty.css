@@ -1,0 +1,11 @@
+div{
+    width: 40%;
+    height:200px;
+    background-color: red;
+    cursor: url(p2.png),auto;
+}
+
+p{
+    height:200px;
+    font-size: large;
+}
